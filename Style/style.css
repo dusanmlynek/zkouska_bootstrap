@@ -3,3 +3,7 @@
   background-size: cover;
   height: 100vh;
 }
+
+#special_font {
+  font-family: "Montserrat", sans-serif;
+}
